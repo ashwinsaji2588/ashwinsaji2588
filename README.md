@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I'm Ashwin<br>I'm a Computer Science and Engineering Student.<br>I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
+# Hi there I'm Ashwin<br>I'm a Computer Science and Engineering Student.<br>I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
 
 
 ## 🌐 Socials:
@@ -12,17 +12,9 @@ Hi there I'm Ashwin<br>I'm a Computer Science and Engineering Student.<br>I’m 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinsaji2588&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsaji2588&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwinsaji2588&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ashwinsaji11)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashwinsaji2588&icon=0&color=0)](https://visitcount.itsvg.in)
