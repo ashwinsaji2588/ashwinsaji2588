@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashwinsaji2588&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsaji2588&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
      <a href="">
