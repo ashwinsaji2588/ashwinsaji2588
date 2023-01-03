@@ -1,5 +1,6 @@
 # Hi there I'm Ashwin
-I'm a Computer Science and Engineering Student.<br>I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
+👨‍ # I'm a Computer Science and Engineering Student.
+<br>👨‍💻I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
 
 
 ## 🌐 Socials:
