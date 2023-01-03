@@ -1,7 +1,7 @@
 # Hi there I'm Ashwin
-<br>🖥️I'm a Computer Science and Engineering Student.
-<br>👨‍💻I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
-<br>💻I’m currently learning The Complete 2023 Web Development Bootcamp.
+<br>🖥️ I'm a Computer Science and Engineering Student.
+<br>👨‍💻 I’m doing my B.Tech from Rajagiri School of Engineering and Technology,Kakkanad.
+<br>💻 I’m currently learning The Complete 2023 Web Development Bootcamp.
 
 
 ## 🌐 Socials:
