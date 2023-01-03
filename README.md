@@ -22,8 +22,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center"> 
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
